@@ -1,4 +1,4 @@
-# Fake News Detection System
+# Fake News Detection System(Using Python)
 
 This project is a machine learning-based Fake News Detection system that classifies news articles as "Real" or "Fake." The system uses Natural Language Processing (NLP) techniques along with a machine learning model to identify the credibility of a news article.
 
